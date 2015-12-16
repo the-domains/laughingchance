@@ -1,0 +1,28 @@
+name: laughingchance
+favicon: null
+layout_spectrum: 0.836236075963825
+typography_spectrum: 0.5458837957121432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.15648179431445897
+  lightness: 0.49081995990127325
+  saturation: 0.6916722310706973
+  rhythmicContrast: 0.9432564212474972
+purpose: []

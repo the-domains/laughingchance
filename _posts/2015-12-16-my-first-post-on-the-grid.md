@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Just something to start with.
-datePublished: '2015-12-21T13:54:38.769Z'
-dateModified: '2015-12-21T13:50:18.407Z'
+datePublished: '2015-12-21T13:59:02.296Z'
+dateModified: '2015-12-21T13:58:53.333Z'
 title: My first post on The Grid
 author: []
 sourcePath: _posts/2015-12-16-my-first-post-on-the-grid.md

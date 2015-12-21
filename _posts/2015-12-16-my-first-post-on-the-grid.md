@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Just something to start with.
-datePublished: '2015-12-16T13:38:40.944Z'
-dateModified: '2015-12-16T13:07:19.150Z'
+datePublished: '2015-12-21T13:54:38.769Z'
+dateModified: '2015-12-21T13:50:18.407Z'
 title: My first post on The Grid
 author: []
 sourcePath: _posts/2015-12-16-my-first-post-on-the-grid.md

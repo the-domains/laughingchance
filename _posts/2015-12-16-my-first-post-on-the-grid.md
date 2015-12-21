@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Home Page Banner
-datePublished: '2015-12-21T14:31:07.496Z'
-dateModified: '2015-12-21T14:31:02.328Z'
+datePublished: '2015-12-21T14:34:01.737Z'
+dateModified: '2015-12-21T14:33:56.062Z'
 title: My first post on The Grid
 author: []
 sourcePath: _posts/2015-12-16-my-first-post-on-the-grid.md

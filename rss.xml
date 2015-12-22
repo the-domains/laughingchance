@@ -4,8 +4,15 @@
         <description><![CDATA[laughingchance]]></description>
         <link>https://thegrid.ai/laughingchance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 13:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 13:37:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/laughingchance/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another page]]></title>
+            <description><![CDATA[<article><h1>Another page</h1><p>This isn't working very well.</p></article>]]></description>
+            <link>https://thegrid.ai/laughingchance/another-page/index.html</link>
+            <guid isPermaLink="false">b080473d-e17a-4054-8550-b2325be25292</guid>
+            <pubDate>Tue, 22 Dec 2015 13:37:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unmanned SpaceX rocket makes breakthrough landing - BBC News]]></title>
             <description><![CDATA[<article><h1>Unmanned SpaceX rocket makes breakthrough landing - BBC News</h1><p>Proof, if any were needed, that Elon Musk IS Tony Stark.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e2961d985883d4b44eda6e6f63ed9b20ed77543.jpg"></article>]]></description>

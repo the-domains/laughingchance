@@ -28,5 +28,8 @@ navigation:
   - name: Music
     id: f8a1cc64-4115-4dbc-9a97-13e0fcea6c7b
     type: content
+  - name: Pictures
+    id: 1d417a88-5f95-4c92-894b-4fb4727b33d7
+    type: content
 favicon: null
 purpose: []

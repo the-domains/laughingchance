@@ -1,25 +1,21 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-starred: true
-keywords: []
-description: Home Page Banner
-datePublished: '2015-12-21T14:34:01.737Z'
-dateModified: '2015-12-21T14:33:56.062Z'
-title: My first post on The Grid
-author: []
+datePublished: '2016-08-17T16:16:56.549Z'
 sourcePath: _posts/2015-12-16-my-first-post-on-the-grid.md
-published: true
+inFeed: true
+isBasedOnUrl: null
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-17T16:16:55.739Z'
+title: ''
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbc6b0cc-1eba-4c16-8190-c71dab33f7e1.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e235c669edb037e012b70976189deed83578f3c9.jpg)
